@@ -61,3 +61,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2026-06-27T11:40:25
 pondered cqrs pattern, read/write models unified; architectural separation in mind.
 
+## 2026-06-27T16:30:44
+pondered serverless architecture, servers still humming; cloud-native contemplation.
+
