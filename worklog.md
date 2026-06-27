@@ -58,3 +58,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2026-06-27T23:32:51
 debated best practices, practice put on hold; principles before patterns.
 
+## 2026-06-27T11:40:25
+pondered cqrs pattern, read/write models unified; architectural separation in mind.
+
