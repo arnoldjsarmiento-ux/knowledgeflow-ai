@@ -1111,3 +1111,6 @@ mental graphql schema design, rest apis undisturbed; theoretical data querying.
 ## 2026-06-28T13:25:16
 contemplated coding standards, standardization deferred; quality in mind.
 
+## 2026-06-29T19:18:14
+considered scalability issues, scaling postponed; thinking big while starting small.
+
