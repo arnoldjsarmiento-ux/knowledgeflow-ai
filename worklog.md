@@ -289,3 +289,6 @@ mental load increased, server load unchanged; cognitive heavy lifting.
 ## 2026-07-16T23:21:01
 thought compilation successful, code compilation postponed; mental dry runs.
 
+## 2026-07-16T21:15:38
+considered scalability issues, scaling postponed; thinking big while starting small.
+
