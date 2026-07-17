@@ -295,3 +295,6 @@ considered scalability issues, scaling postponed; thinking big while starting sm
 ## 2026-07-17T23:27:07
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2026-07-17T16:30:55
+contemplated api versioning, endpoints stable; future-proofing interfaces mentally.
+
