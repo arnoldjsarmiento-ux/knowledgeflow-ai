@@ -346,3 +346,6 @@ considered message queues, synchronous operations ongoing; asynchronous ideation
 ## 2026-07-22T15:18:18
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2026-07-22T12:23:13
+thought about scalability, current scale unmoved; future-proofing in mind.
+
