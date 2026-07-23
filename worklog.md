@@ -355,3 +355,6 @@ mental TODOs multiplied, actual TODOs stable; prioritizing the intangible.
 ## 2026-07-22T23:08:47
 explored the forest, trees remain untouched; zooming out has value.
 
+## 2026-07-23T22:49:47
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
