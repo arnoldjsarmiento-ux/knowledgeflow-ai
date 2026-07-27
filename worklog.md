@@ -409,3 +409,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2026-07-26T16:09:39
 thought about cache invalidation, cache hits steady; conceptual performance tuning.
 
+## 2026-07-27T09:31:13
+considered hot code reloading, restarts required; theoretical continuous operation.
+
