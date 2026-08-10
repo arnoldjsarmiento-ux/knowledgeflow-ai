@@ -547,3 +547,6 @@ deepened domain knowledge, domain objects unchanged; context-building phase.
 ## 2026-08-09T20:06:09
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2026-08-10T23:15:20
+API design pondered, endpoints undocumented; interface ideation day.
+
