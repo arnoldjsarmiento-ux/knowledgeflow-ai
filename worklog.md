@@ -766,3 +766,6 @@ mental graphql schema design, rest apis undisturbed; theoretical data querying.
 ## 2026-08-31T18:41:43
 explored zero-trust architecture, perimeter secure; theoretical security model.
 
+## 2026-09-01T11:59:52
+debated best practices, practice put on hold; principles before patterns.
+
