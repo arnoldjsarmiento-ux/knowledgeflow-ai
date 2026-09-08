@@ -1855,3 +1855,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2026-09-08T14:06:58
 contemplated complexities, deferred implementation; sometimes thinking is doing.
 
+## 2026-09-08T14:41:03
+considered hot code reloading, restarts required; theoretical continuous operation.
+
