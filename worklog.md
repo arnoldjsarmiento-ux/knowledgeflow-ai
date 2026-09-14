@@ -937,3 +937,6 @@ considered database sharding, monolithic db humming; theoretical data distributi
 ## 2026-09-14T16:07:08
 theoretical optimizations considered, practical ones deferred; thinking before leaping.
 
+## 2026-09-14T09:06:27
+mental code signing, certificates unexpired; security in principle.
+
