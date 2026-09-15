@@ -1909,3 +1909,6 @@ pondered homomorphic encryption, data in clear; theoretical secure computation.
 ## 2026-09-14T18:45:38
 considered technical debt, repayment plans drafted; financial planning for code.
 
+## 2026-09-15T16:47:03
+debated best practices, practice put on hold; principles before patterns.
+
