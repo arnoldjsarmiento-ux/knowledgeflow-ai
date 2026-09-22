@@ -1978,3 +1978,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2026-09-22T14:31:53
 strengthened conceptual foundations, codebase foundations unmoved; building from the mind up.
 
+## 2026-09-22T21:07:43
+considered database sharding, monolithic db humming; theoretical data distribution.
+
